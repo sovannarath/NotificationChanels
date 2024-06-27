@@ -1,0 +1,14 @@
+D:\Techbodia\NotificationChanels\bin\Debug\net8.0\NotificationChanels.exe
+D:\Techbodia\NotificationChanels\bin\Debug\net8.0\NotificationChanels.deps.json
+D:\Techbodia\NotificationChanels\bin\Debug\net8.0\NotificationChanels.runtimeconfig.json
+D:\Techbodia\NotificationChanels\bin\Debug\net8.0\NotificationChanels.dll
+D:\Techbodia\NotificationChanels\bin\Debug\net8.0\NotificationChanels.pdb
+D:\Techbodia\NotificationChanels\obj\Debug\net8.0\NotificationChanels.GeneratedMSBuildEditorConfig.editorconfig
+D:\Techbodia\NotificationChanels\obj\Debug\net8.0\NotificationChanels.AssemblyInfoInputs.cache
+D:\Techbodia\NotificationChanels\obj\Debug\net8.0\NotificationChanels.AssemblyInfo.cs
+D:\Techbodia\NotificationChanels\obj\Debug\net8.0\NotificationChanels.csproj.CoreCompileInputs.cache
+D:\Techbodia\NotificationChanels\obj\Debug\net8.0\NotificationChanels.dll
+D:\Techbodia\NotificationChanels\obj\Debug\net8.0\refint\NotificationChanels.dll
+D:\Techbodia\NotificationChanels\obj\Debug\net8.0\NotificationChanels.pdb
+D:\Techbodia\NotificationChanels\obj\Debug\net8.0\NotificationChanels.genruntimeconfig.cache
+D:\Techbodia\NotificationChanels\obj\Debug\net8.0\ref\NotificationChanels.dll
